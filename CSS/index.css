@@ -1,8 +1,23 @@
 body {
     background-image: url("");
     background-repeat: repeat-x;
+    text-align: center;
 }
 a{
-    color: f7f4f4;
+    color: red;
     font-size: xx-large;
 }
+.cursive {
+    font-family: 'Alex Brush', cursive;
+    text-align: center;
+    font-size: 2rem;
+    text-emphasis-color: teal;
+    font-variant-caps: all-petite-caps;
+}
+.bold {
+    font-family: 'Lily Script One', cursive;
+    text-align: center;
+    font-size: 2rem;
+    text-emphasis-color: teal;
+    font-variant-caps: all-petite-caps;
+}}
