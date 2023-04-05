@@ -2,7 +2,9 @@ body {
     background-color: rgb(201,211,221);
     background-repeat: repeat-x;
     text-align: center;
-    
+}
+img {
+      float: left;
 }
 a{
     color: red;
