@@ -1,6 +1,5 @@
 # Ivan-final-project
 Final project for Victory code Quarter 1
-# final project
 
 Copyright <2023> <COPYRIGHT Ivan Anaya>
 
